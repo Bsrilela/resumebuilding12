@@ -1,0 +1,35 @@
+{
+  "basics":{
+    "photo":"pp.jpg",
+    "name":"spandana",
+    "mail":"p.spandana247728@gmail.com",
+    "mobile":"9123456789"
+  },
+"education":[
+  {
+"course":"B.Tech(Computer Science and Engineering)",
+"college":[
+  "g.pullaiah college of Engineering",
+  "2015-2019",
+  "70"
+]
+
+},
+{
+  "course":"intermediate(MPC)",
+  "college":[
+    "Narayana Junior college",
+    "2013-2015",
+    "93.6"
+  ]
+},
+{
+  "course":"SSC",
+  "college":[
+    "Everest English School",
+    "2012-2013",
+    "80"
+  ]
+}
+]
+}
